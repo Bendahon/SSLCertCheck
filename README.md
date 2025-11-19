@@ -21,6 +21,6 @@ Crontab could then do something like this
 
 # What can we do with that
 Get it into Zabbix with an agent on the local PC
-Name: ssl-www.example.com
-vfs.file.contents[/usr/local/ssl/www.example.com.txt,UTF-8]
+`Name: ssl-www.example.com`
+`vfs.file.contents[/usr/local/ssl/www.example.com.txt,UTF-8]`
 
