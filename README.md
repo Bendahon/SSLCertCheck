@@ -2,12 +2,17 @@
 
 Write the days remaining on SSL certs to a text file
 
-If your local domain is *example* then you could do something like
-`cat /usr/local/ssl/\*example*`
+If your local domain is *example* then you could do something like `cat /usr/local/ssl/*example*`
+
 84
+
 233
+
 84
+
 286
+
+---
 
 put the script in `/usr/local/bin/cert_exp`
 
